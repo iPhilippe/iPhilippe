@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about building elegant and efficien
 ## 🧰 Technologies & Tools
 
 - 🔨 Swift | SwiftUI 
-- 🧱 Xcode | Interface Builder
+- 🧱 Xcode | View Code
 - 📱 iOS Development | App Store Publishing
 - 🌐 RESTful APIs | Networking
 - 📦 Dependency Management: CocoaPods | Swift Package Manager
