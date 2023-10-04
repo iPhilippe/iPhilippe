@@ -18,6 +18,5 @@ Welcome to my GitHub profile! I'm passionate about building elegant and efficien
 ## 📈 GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iPhilippe&show_icons=true&theme=dark)](https://github.com/iPhilippe)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPhilippe&layout=compact&theme=dark)](https://github.com/iPhilippe)
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories. Let's create amazing iOS apps! 📱🚀
